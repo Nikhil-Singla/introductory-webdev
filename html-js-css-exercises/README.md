@@ -1,24 +1,26 @@
-## Web Development Portfolio (Introductory Level)
-### EECS 448, Software Engineering: Lab 5
+# Web Development Exercises
 
-[EECS Peoples Page: Fall 2022](https://people.ku.edu/~n210s707/)
-<br/> 
+These are my lab assignments from EECS 448 (Software Engineering) at KU, Fall 2022. Basic intro to HTML, CSS, and JavaScript through hands-on exercises.
 
-**Exercise 1**: Password validator <br />
-Create a webpage that allows the user to enter a password two times in order to validate it.
-<br/>
+[Course People Page](https://people.ku.edu/~n210s707/)
 
-**Exercise 2**: Slide show! <br/>
-Create a new webpage that has a single img tag and two buttons labeled “previous” and “next”. 
-<br/>
+## What's Here
 
-**Exercise 3**: Personal Profile <br/>
-Make a profile page that is styled with CSS. Have fun with this. You can make a profile about  <br/>
-anybody or anything. You are not required to make this about yourself or post any personal  <br/>
-information online.  <br/>
+### Exercise 1: Password Validator
+A form that checks if two password entries match. Includes a toggle to show/hide password text and basic client-side validation.
 
-**Exercise 4**: CSS Manipulation <br/> 
-Create a web page that have a paragraph with some dummy text.  <br/> <br/>
+### Exercise 2: Image Slideshow
+Simple image gallery with previous/next buttons. Uses JavaScript to cycle through images without page reloads.
+
+### Exercise 3: Personal Profile Page
+A styled profile page using CSS. I made mine about Ash Ketchum because I was rewatching the anime at the time. Includes embedded videos and a table layout.
+
+### Exercise 4: CSS Manipulation
+Dynamic styling demo where you can change border colors, background colors, and border width using RGB input fields. All changes apply in real-time via JavaScript.
+
+## Notes
+
+This was my first real experience writing JavaScript that wasn't just console.log statements. The code isn't perfect - there's inline styling, some questionable variable names, and I hadn't learned about modern JS features yet. But everything works, which felt like a big deal at the time.
 
 
 
