@@ -2,6 +2,8 @@
 
 > **Time Capsule Alert:** This repository contains my first web development projects from ~3 years ago. I've done some housekeeping (consolidating files, reducing clutter), but the core exercises remain as they were.
 
+Click here for the archived website: https://nikhil-singla.github.io/introductory-webdev/index.html
+
 ## 📸 Why This Exists
 
 Everyone starts somewhere, and this was my somewhere! These exercises represent my introduction to HTML, CSS, JavaScript, and PHP. While I've grown significantly as a developer since then, I'm keeping this repo public as a reminder of where I began.
@@ -50,3 +52,4 @@ Since this project, I've:
 **Nostalgia Level:** Maximum
 
 *"Code is like wine... except sometimes old code is just old code."* 🍷
+
